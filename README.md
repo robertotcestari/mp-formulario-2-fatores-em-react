@@ -1,29 +1,17 @@
-# Nome do Mini Projeto
+# Formulário de Autenticação em 2 fatores - React
 
-(um parágrafo explicando)
-
-## 🤓 Antes de começar
-
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
+É crescente o uso de aplicações que implementam algum tipo de segurança extra na autenticação. Uma das formas mais comuns para isso é usando uma estratégia de 2 fatores. Além da senha tradicional o usuário recebe em seu email ou por SMS uma senha de uso único (também conhecida como OTP - *One-Time Password*).
 
 ## 🔨 Requisitos
 
-- Requisito 1
-- Requisito 2
-
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
-
-- Requisito 3
-- ...
-
-## 🔨 Desafio extra para quem quer ir além
-
-(Essa seção é opcional)
-
-- Requisito extra 1. 
-- Requisito extra 2.
+- Crie um formulário com 5 inputs cada um representando um digito da senha OTP
+- A submissão desse formulário deverá acontecer quando o usuário pressionar a tecla Enter ou clicar no botão
+- Ao carregar a página, a aplicação deverá focar no input do primeiro dígito
+- Ao digitar o primeiro número, o foco deverá ir automaticamente para o segundo dígito. E assim sucessivamente
+- Deve ser possível colar também um código de 5 dígitos em qualquer lugar da aplicação e ele deverá aparecer corretamente.
+- Em celulares, o teclado numérico deve ser ativado (e não o teclado tradicional).
+- Utilize, quando possível, todas as boas práticas presentes [nesse artigo](https://developer.chrome.com/docs/identity/web-apis/web-otp?hl=pt-br).  
+- Crie a UI de acordo com o Figma ou, se preferir, crie um design próprio. 
 
 ## 🎨 Design Sugerido
 
@@ -31,21 +19,21 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Figma
 
-🔗 [Link do design]()
+🔗 [Link do design](https://www.figma.com/community/file/1344076293376163434/mini-projeto-formulario-de-autenticacao-em-2-fatores-otp)
 
-## 👉🏽 Sobre esse mini-projeto
-
-### O que você irá praticar:
+## 👉🏽 O que você irá praticar:
 
 #### React
 
-- Habilidade 1 do React
-- Habilidade 2
+- Refs no React
+- Formulários controlados no React
+- Eventos
 
-#### TailwindCSS
+#### WebOTP API
 
-- Habilidade 1 do TailwindCSS
-
+- Melhores práticas no uso da WebOTP API
+- Inputs com teclados numéricos
+  
 ### Pré requisitos
 
-(coloque aqui se houver algum)
+Para fazer esse Mini Projeto será necessário no mínimo conhecimento básico de React e de desenvolvimento web no geral. 
