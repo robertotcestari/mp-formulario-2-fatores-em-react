@@ -33,7 +33,8 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 - Melhores práticas no uso da WebOTP API
 - Inputs com teclados numéricos
-  
-### Pré requisitos
 
-Para fazer esse Mini Projeto será necessário no mínimo conhecimento básico de React e de desenvolvimento web no geral. 
+
+## Pré requisitos
+
+Para fazer esse Mini Projeto será necessário no mínimo conhecimento básico de React e de desenvolvimento web no geral.
