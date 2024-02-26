@@ -4,11 +4,13 @@
 
 ## 🔨 Requisitos
 
-- Crie um formulário com 5 inputs cada um representando um digito da senha OTP
+- Crie um formulário com 5 _inputs_, cada um representando um digito da senha OTP
 - A submissão desse formulário deverá acontecer quando o usuário pressionar a tecla Enter ou clicar no botão
 - Ao carregar a página, a aplicação deverá focar no input do primeiro dígito
 - Ao digitar o primeiro número, o foco deverá ir automaticamente para o segundo dígito. E assim sucessivamente
-- Deve ser possível colar também um código de 5 dígitos em qualquer lugar da aplicação e ele deverá aparecer corretamente.
+- Os _inputs_ só poderão aceitar números
+- Deve ser possível colar um código de 5 dígitos em qualquer lugar da aplicação e ele deverá aparecer corretamente nos inputs.
+  - Um erro deverá aparecer quando o texto colado não for 5 dígitos numéricos. 
 - Em celulares, o teclado numérico deve ser ativado (e não o teclado tradicional).
 - Utilize, quando possível, todas as boas práticas presentes [nesse artigo](https://developer.chrome.com/docs/identity/web-apis/web-otp?hl=pt-br).  
 - Crie a UI de acordo com o Figma ou, se preferir, crie um design próprio. 
