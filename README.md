@@ -8,6 +8,7 @@
 - A submissão desse formulário deverá acontecer quando o usuário pressionar a tecla Enter ou clicar no botão
 - Ao carregar a página, a aplicação deverá focar no input do primeiro dígito
 - Ao digitar o primeiro número, o foco deverá ir automaticamente para o segundo dígito. E assim sucessivamente
+- Ao apagar algum dígito, o foco deverá voltar para o dígito anterior
 - Os _inputs_ só poderão aceitar números
 - Deve ser possível colar um código de 5 dígitos em qualquer lugar da aplicação e ele deverá aparecer corretamente nos inputs.
   - Um erro deverá aparecer quando o texto colado não for 5 dígitos numéricos. 
