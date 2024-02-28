@@ -15,7 +15,7 @@
 - A navegação entre os campos deve ser possível utilizando as setas do teclado (ArrowLeft e ArrowRight).
 - Em dispositivos móveis, o teclado numérico deve ser ativado (ao invés do teclado tradicional).
 - Utilize, sempre que possível, as boas práticas descritas [nesse artigo](https://web.dev/articles/sms-otp-form?hl=pt-br).  
-- Desenvolva a interface de usuário conforme o modelo do Figma ou, se preferir, crie um design personalizado. 
+- Desenvolva a interface de usuário conforme o modelo do Figma ou, se preferir, crie um design personalizado.
 
 ## 🎨 Design Sugerido
 
@@ -25,7 +25,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 🔗 [Link do design](https://www.figma.com/community/file/1344076293376163434/mini-projeto-formulario-de-autenticacao-em-2-fatores-otp)
 
-## 👉🏽 O que você irá praticar:
+## 👉🏽 O que você irá praticar
 
 #### React
 
@@ -37,7 +37,6 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 - Melhores práticas no uso da WebOTP API
 - Inputs com teclados numéricos
-
 
 ## Pré requisitos
 
