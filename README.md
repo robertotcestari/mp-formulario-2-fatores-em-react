@@ -9,7 +9,6 @@
 - Os _inputs_ só poderão aceitar números e apenas um único dígito cada
 - Ao carregar a página, a aplicação deverá focar no input do primeiro dígito
 - Ao digitar o primeiro número, o foco deverá ir automaticamente para o segundo dígito. E assim sucessivamente
-- Ao clicar em quaisquer um dos dígitos, o foco deverá ir para o primeiro dígito que está vazio.
 - Ao apagar algum dígito, o foco deverá voltar para o dígito anterior
 - Deve ser possível colar um código de 5 dígitos e ele deverá aparecer corretamente nos inputs.
   - Um erro deverá aparecer quando o texto colado não for 5 dígitos numéricos. 
