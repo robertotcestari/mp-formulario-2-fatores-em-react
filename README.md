@@ -11,7 +11,8 @@
 - Ao digitar o primeiro número, o foco deverá ir automaticamente para o segundo dígito. E assim sucessivamente
 - Ao apagar algum dígito, o foco deverá voltar para o dígito anterior
 - Deve ser possível colar um código de 5 dígitos e ele deverá aparecer corretamente nos inputs.
-  - Um erro deverá aparecer quando o texto colado não for 5 dígitos numéricos. 
+  - Um erro deverá aparecer quando o texto colado não for 5 dígitos numéricos.
+- Deve ser possível navegar nos inputs com as setas do teclado (_ArrowLeft_ e _ArrowRight_)
 - Em celulares, o teclado numérico deve ser ativado (e não o teclado tradicional).
 - Utilize, quando possível, todas as boas práticas presentes [nesse artigo](https://developer.chrome.com/docs/identity/web-apis/web-otp?hl=pt-br).  
 - Crie a UI de acordo com o Figma ou, se preferir, crie um design próprio. 
