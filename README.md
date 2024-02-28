@@ -6,7 +6,7 @@
 
 - Crie um formulário com 5 _inputs_, cada um representando um digito da senha OTP
 - A submissão desse formulário deverá acontecer quando o usuário pressionar a tecla Enter ou clicar no botão
-- Os _inputs_ só poderão aceitar números
+- Os _inputs_ só poderão aceitar números e apenas um único dígito cada
 - Ao carregar a página, a aplicação deverá focar no input do primeiro dígito
 - Ao digitar o primeiro número, o foco deverá ir automaticamente para o segundo dígito. E assim sucessivamente
 - Ao clicar em quaisquer um dos dígitos, o foco deverá ir para o primeiro dígito que está vazio.
